@@ -12,7 +12,7 @@
 
 <table>
     <tr>
-    <h2 td colspan="4" align="center">基础</h2></td>
+    <td colspan="4" align="center" style="font-size:20pt">基础</td>
     </tr>
     <tr>
        <td><h3 align="center">基础项目</h3></td>

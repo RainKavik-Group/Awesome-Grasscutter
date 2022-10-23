@@ -43,6 +43,7 @@
         <td colspan="2"  align="center"> 全版本客户端的下载链接</td>
 </table>
 
+---
 
 <table align="center">
     <tr>
@@ -186,6 +187,8 @@
     </tr>
 </table>
 
+---
+
 <table align="center">
     <tr>
     <td colspan="2" align="center"><h2>代理软件</h2></td>
@@ -224,6 +227,8 @@
     </tr>
 </table>
 
+---
+
 <table align="center">
     <tr>
     <td colspan="3" align="center"><h2>MOD</h2></td>
@@ -254,6 +259,8 @@
         <td align="center"><a href="https://github.com/Taiga74164/ChecksumBypass-GenshinImpact">melonloader-leak3.1 </td>
     </tr>
 </table>
+
+---
 
 <table align="center">
     <tr>

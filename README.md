@@ -10,9 +10,9 @@
 
 * 本项目只是做资源整合，点个免费的`star`再拿走吧！，您的支持是我们更新的动力~！
 
-<table>
+<table align="center">
     <tr>
-    <td colspan="4" align="center"><h2>基础</h2></td>
+    <td colspan="4" align="center"><h3>基础</h3></td>
     </tr>
     <tr>
        <td><h3 align="center">基础项目</h3></td>
@@ -44,7 +44,7 @@
 </table>
 
 <h2 align="center">插件</h2>
-<table>
+<table align="center">
     <tr>
        <td><h3 align="center">项目地址</h3></td>
        <td><h3 align="center">简介</h3></td>
@@ -184,7 +184,7 @@
 </table>
 
 <h2 align="center">代理软件</h2>
-<table>
+<table align="center">
     <tr>
        <td><h3 align="center">项目地址</h3></td>
        <td><h3 align="center">简介</h3></td>
@@ -220,7 +220,7 @@
 </table>
 
 <h2 align="center">MOD</h2>
-<table>
+<table align="center">
     <tr>
        <td><h3 align="center">3DMigoto</h3></td>
        <td><h3 align="center">SpecialK</h3></td>
@@ -249,7 +249,7 @@
 </table>
 
 <h2 align="center">其他</h2>
-<table>
+<table align="center">
     <tr>
        <td><h3 align="center">项目地址</h3></td>
        <td><h3 align="center">简介</h3></td>

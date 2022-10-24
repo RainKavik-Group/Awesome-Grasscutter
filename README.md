@@ -38,6 +38,12 @@
         <td align="center"><a href="https://github.com/cool-chill/GC-onekey">一键脚本部署</a></td>
         <td align="center">写给Linux用的  </td>
     </tr>
+        <tr>
+        <td align="center"><a href="https://github.com/Yuer-QAQ/Grasscutter-error">常见问题</a></td>
+        <td align="center">Grasscutter-疑难杂症</td>
+        <td align="center"><a href="https://github.com/akbaryahya/DockerGS">DockerGS</a></td>
+        <td align="center">DockerGC是一个容器，只需一个命令即可运行GC</td>
+    </tr>
     <tr>
         <td colspan="2"  align="center"><a href="https://github.com/kyou-nase/GI-Download-Library">GI-Download-Library</a></td>
         <td colspan="2"  align="center"> 全版本客户端的下载链接</td>

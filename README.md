@@ -87,7 +87,7 @@
     </tr>
         <tr>
         <td align="center"><a href="https://github.com/akbaryahya/YuukiPS-Launcher">YuukiPS</a></td>
-          <td align="center">GYuukiPS的个人启动器。</td>
+          <td align="center">YuukiPS的个人启动器。</td>
     </tr>
 </table>
 

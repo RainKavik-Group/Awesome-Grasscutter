@@ -55,6 +55,108 @@
 
 <table align="center">
     <tr>
+    <td colspan="2" align="center"><h2>代理软件</h2></td>
+    </tr>
+    <tr>
+       <td align="center"><h3 align="center">项目地址</h3></td>
+       <td align="center"><h3 align="center">简介</h3></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://cloud.rainkavik.com/s/gKBcV">易语言_代理转向</a></td>
+         <td align="center">无源码地址，欢迎补充。 </td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/liujiaqi7998/genshinclienthelper">Genshin代理助手</a></td>
+         <td align="center">老牌的代理软件，功能简洁非常强大。 </td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/gc-toolkit/GenshinLauncher">GenshinLauncherUI</a></td>
+           <td align="center">高仿官方启动器的gc启动器捏。 </td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/Bambi5/Collei_Launcher">Collei_Launcher</a></td>
+          <td align="center">适用于某游戏的启动器，可自行修补patch。 </td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/Grasscutters/Cultivation/blob/main/README_zh-CN.md">Cultivation</a></td>
+          <td align="center">GC官方的启动器。</td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%20skins_zh-CN.md">Cultivation启动器主题</a></td>
+        <td align="center">启动器主题由<code>遗忘的季节~</code>整合</td>
+    </tr>
+        <tr>
+        <td align="center"><a href="https://github.com/akbaryahya/YuukiPS-Launcher">YuukiPS</a></td>
+          <td align="center">GYuukiPS的个人启动器。</td>
+    </tr>
+</table>
+
+---
+
+<table align="center">
+    <tr>
+    <td colspan="3" align="center"><h2>MOD</h2></td>
+    </tr>
+    <tr>
+       <td align="center"><h3 align="center">3DMigoto</h3></td>
+       <td align="center"><h3 align="center">SpecialK</h3></td>
+       <td align="center"><h3 align="center">melonloader</h3></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/SilentNightSound/GI-Model-Importer">GIMI-3DMigoto-项目地址&教程</td>
+        <td align="center"><a href="https://github.com/SpecialKO/SpecialK">SpecialK-项目地址</td>
+        <td align="center"><a href="https://github.com/Lost-Season/ChecksumBypass">melonloader-下载及教程 </td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://gamebanana.com/mods/games/8552">GIMI-3DMigoto-mod论坛地址</td>
+        <td align="center"><a href="https://github.com/zeroruka/GI-SKMods-wiki/wiki">SpecialK-中文wiki（教程）</td>
+        <td align="center"><a href="https://github.com/zeroruka/GI-Assets/tree/main/Mods/Scripts">melonloader-mod地址&教程 </td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/SilentNightSound/GI-Model-Importer-Assets">GIMI-3DMigoto-github上的mod地址</td>
+        <td align="center"><a href="https://github.com/zeroruka/GI-SKMods/wiki">SpecialK-英文wiki（教程）</td>
+        <td align="center"><a href="https://github.com/Lost-Season/ChecksumBypass/tree/main/扩展/">melonloader-扩展用法 </td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/Yuer-QAQ">是凑数的~</td>
+        <td align="center"><a href="https://github.com/zeroruka/GI-SKMods">SpecialK-mod地址</td>
+        <td align="center"><a href="https://github.com/Taiga74164/ChecksumBypass-GenshinImpact">melonloader-leak3.1 </td>
+    </tr>
+</table>
+
+---
+
+<table align="center">
+    <tr>
+    <td colspan="2" align="center"><h2>其他文件</h2></td>
+    </tr>
+    <tr>
+       <td align="center"><h3 align="center">项目地址</h3></td>
+       <td align="center"><h3 align="center">简介</h3></td>
+    </tr>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/Akebi-Group/Akebi-GC/blob/master/README_zh-Hans.md">Akebi-GC</a></td>
+        <td align="center">一款可以让你在提瓦特翱翔的魔法（已经DMCA了）</td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/Taiga74164/Akebi-GC">发布版Akebi</a></td>
+        <td align="center">编译后的发布版背起行囊。</tb>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/Lost-Season/Genshin_Impact_Teleport">All 传送文件</a></td>
+        <td align="center">配合akebi的teleport功能使用。</tb>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/RainKavik-Group/genshin-hdiff-patch-gui">GUI差分包合并</a></td>
+        <td align="center">GUI图形界面 自动完成hdiff差分包更新(合并语音强推！)。</tb>
+    </tr>
+</table>
+
+---
+
+<table align="center">
+    <tr>
     <td colspan="2" align="center"><h2>插件统计</h2></td>
     </tr>
     <tr>
@@ -196,108 +298,6 @@
     <tr>
         <td align="center"><a href="https://github.com/NotThorny/BuildSwitcher">BuildSwitcher</a></td>
         <td align="center">保存你的账号数据快速导入</td>
-    </tr>
-</table>
-
----
-
-<table align="center">
-    <tr>
-    <td colspan="2" align="center"><h2>代理软件</h2></td>
-    </tr>
-    <tr>
-       <td align="center"><h3 align="center">项目地址</h3></td>
-       <td align="center"><h3 align="center">简介</h3></td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://cloud.rainkavik.com/s/gKBcV">易语言_代理转向</a></td>
-         <td align="center">无源码地址，欢迎补充。 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/liujiaqi7998/genshinclienthelper">Genshin代理助手</a></td>
-         <td align="center">老牌的代理软件，功能简洁非常强大。 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/gc-toolkit/GenshinLauncher">GenshinLauncherUI</a></td>
-           <td align="center">高仿官方启动器的gc启动器捏。 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/Bambi5/Collei_Launcher">Collei_Launcher</a></td>
-          <td align="center">适用于某游戏的启动器，可自行修补patch。 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/Grasscutters/Cultivation/blob/main/README_zh-CN.md">Cultivation</a></td>
-          <td align="center">GC官方的启动器。</td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%20skins_zh-CN.md">Cultivation启动器主题</a></td>
-        <td align="center">启动器主题由<code>遗忘的季节~</code>整合</td>
-    </tr>
-        <tr>
-        <td align="center"><a href="https://github.com/akbaryahya/YuukiPS-Launcher">YuukiPS</a></td>
-          <td align="center">GYuukiPS的个人启动器。</td>
-    </tr>
-</table>
-
----
-
-<table align="center">
-    <tr>
-    <td colspan="3" align="center"><h2>MOD</h2></td>
-    </tr>
-    <tr>
-       <td align="center"><h3 align="center">3DMigoto</h3></td>
-       <td align="center"><h3 align="center">SpecialK</h3></td>
-       <td align="center"><h3 align="center">melonloader</h3></td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/SilentNightSound/GI-Model-Importer">GIMI-3DMigoto-项目地址&教程</td>
-        <td align="center"><a href="https://github.com/SpecialKO/SpecialK">SpecialK-项目地址</td>
-        <td align="center"><a href="https://github.com/Lost-Season/ChecksumBypass">melonloader-下载及教程 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://gamebanana.com/mods/games/8552">GIMI-3DMigoto-mod论坛地址</td>
-        <td align="center"><a href="https://github.com/zeroruka/GI-SKMods-wiki/wiki">SpecialK-中文wiki（教程）</td>
-        <td align="center"><a href="https://github.com/zeroruka/GI-Assets/tree/main/Mods/Scripts">melonloader-mod地址&教程 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/SilentNightSound/GI-Model-Importer-Assets">GIMI-3DMigoto-github上的mod地址</td>
-        <td align="center"><a href="https://github.com/zeroruka/GI-SKMods/wiki">SpecialK-英文wiki（教程）</td>
-        <td align="center"><a href="https://github.com/Lost-Season/ChecksumBypass/tree/main/扩展/">melonloader-扩展用法 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/Yuer-QAQ">是凑数的~</td>
-        <td align="center"><a href="https://github.com/zeroruka/GI-SKMods">SpecialK-mod地址</td>
-        <td align="center"><a href="https://github.com/Taiga74164/ChecksumBypass-GenshinImpact">melonloader-leak3.1 </td>
-    </tr>
-</table>
-
----
-
-<table align="center">
-    <tr>
-    <td colspan="2" align="center"><h2>其他文件</h2></td>
-    </tr>
-    <tr>
-       <td align="center"><h3 align="center">项目地址</h3></td>
-       <td align="center"><h3 align="center">简介</h3></td>
-    </tr>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/Akebi-Group/Akebi-GC/blob/master/README_zh-Hans.md">Akebi-GC</a></td>
-        <td align="center">一款可以让你在提瓦特翱翔的魔法（已经DMCA了）</td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/Taiga74164/Akebi-GC">发布版Akebi</a></td>
-        <td align="center">编译后的发布版背起行囊。</tb>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/Lost-Season/Genshin_Impact_Teleport">All 传送文件</a></td>
-        <td align="center">配合akebi的teleport功能使用。</tb>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/RainKavik-Group/genshin-hdiff-patch-gui">hdiff-patch-gui</a></td>
-        <td align="center">GUI图形界面 自动完成hdiff差分包更新（适用于合并语音包跟升级包，消灭直接覆盖没有语音的烦恼）。</tb>
     </tr>
 </table>
 

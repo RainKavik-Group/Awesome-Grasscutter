@@ -191,6 +191,10 @@
         <td align="center"><a href="https://github.com/Xtao-Labs/GCAuth-OAuth">GCAuth-OAuth</a></td>
         <td align="center">建立在oauth和GCAuth的游戏内登录系统，您可以使用<a href="https://github.com/gc-toolkit/GCAuth-OAuth-TwitterTheme">Twitter风格的GCAuth-OAuth页面</td>
     </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/NotThorny/BuildSwitcher">BuildSwitcher</a></td>
+        <td align="center">保存你的账号数据快速导入</td>
+    </tr>
 </table>
 
 ---

@@ -169,7 +169,7 @@
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/Penelopeep/CharacterBuilder">CharacterBuilder</a></td>
-        <td align="center">角色生成器插件</td>
+        <td align="center">使用保存的版本之一快速装备角色。</td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/liujiaqi7998/GrasscuttersWebDashboard">网页工具箱</a></td>

@@ -44,7 +44,7 @@
         <td align="center"><a href="https://github.com/Yuer-QAQ/Grasscutter-error">常见问题</a></td>
         <td align="center">Grasscutter-疑难杂症</td>
         <td align="center"><a href="https://github.com/akbaryahya/DockerGS">DockerGS</a></td>
-        <td align="center">DockerGC是一个容器，只需一个命令即可运行GC</td>
+        <td align="center">只需一个命令即可运行GC</td>
     </tr>
     <tr>
         <td colspan="2"  align="center"><a href="https://github.com/kyou-nase/GI-Download-Library">GI-Download-Library</a></td>

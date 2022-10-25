@@ -82,7 +82,7 @@
           <td align="center">GC官方的启动器。</td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Custom%20skins_zh-CN.md">Cultivation启动器主题</a></td>
+        <td align="center"><a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/Public resource/Cultivation file/Custom skins_zh-CN.md">Cultivation启动器主题</a></td>
         <td align="center">启动器主题由<code>遗忘的季节~</code>整合</td>
     </tr>
         <tr>

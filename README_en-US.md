@@ -205,7 +205,10 @@
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/snoobi-seggs/FuckPaimonPlugin">FuckPaimonPlugin</a></td>
-        <td align="center">The area ahead will be explored now. </td>
+        <td align="center">The area ahead will be explored now. 
+            <br/>Or you could just run the command <code>/setProp setopenstate 48</code> to do the same without plugin
+            <br/> <code>/setProp unsetopenstate 48</code> to reverse it
+        </td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/Penelopeep/SwitchElementTraveller">SwitchElement switch protagonist element</a></td>

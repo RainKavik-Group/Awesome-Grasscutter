@@ -205,7 +205,11 @@
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/snoobi-seggs/FuckPaimonPlugin">FuckPaimonPlugin</a></td>
-        <td align="center">前面的区域爷现在就要探索。 </td>
+        <td align="center">
+            前面的区域爷现在就要探索。
+            <br/>或者使用<code>/setProp setopenstate 48</code>来实现相同的功能，
+            <br/>并<code>/setProp unsetopenstate 48</code>来解除该状态 
+        </td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/Penelopeep/SwitchElementTraveller">SwitchElement 切换主角元素</a></td>

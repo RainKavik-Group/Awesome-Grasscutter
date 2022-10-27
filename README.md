@@ -205,11 +205,8 @@
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/snoobi-seggs/FuckPaimonPlugin">FuckPaimonPlugin</a></td>
-        <td align="center">
-            前面的区域爷现在就要探索。
-            <br/>或者使用<code>/setProp setopenstate 48</code>来实现相同的功能，
-            <br/>并<code>/setProp unsetopenstate 48</code>来解除该状态 
-        </td>
+        <td align="center">前面的区域爷现在就要探索。<br/>或者使用<code>/setProp setopenstate 48</code>来实现相同的功能，<br/>
+            并<code>/setProp unsetopenstate 48</code>来解除该状态 </td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/Penelopeep/SwitchElementTraveller">SwitchElement 切换主角元素</a></td>
@@ -303,6 +300,10 @@
         <td align="center"><a href="https://github.com/NotThorny/BuildSwitcher">BuildSwitcher</a></td>
         <td align="center">保存你的账号数据快速导入</td>
     </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/Grasscutters/Grasscutter/pull/1905">Banners God</a></td>
+        <td align="center">快速切换<code>banner.json</code>文件，（目前只是提交了<code>pr</code>，感兴趣的自己研究） </td>
+    </tr>
 </table>
 
 <table align="center">
@@ -318,3 +319,4 @@
 <td align="center"><a href="https://github.com/wcjqwq">IKUN</a></td>
 </tr>
 </table>
+

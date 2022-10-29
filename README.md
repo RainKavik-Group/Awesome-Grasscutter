@@ -309,6 +309,73 @@
 
 <table align="center">
     <tr>
+        <td colspan="2" align="center"><h2>Discord/频道/QQ群</h2></td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://discord.gg/T5vZU6UyeG">Grasscutter</a></td>
+        <td align="center"><code>Grasscutter</code>官方Discord群组。加入后需要验证身份，验证秘钥在<code>wki</code>。</td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://jq.qq.com/?_wv=1027&k=LpLvcFS1">Tools-jie65535</a></td>
+        <td align="center"><code>Grasscutter-Tools-jie65535</code>官方QQ内测群。小白请绕道。</td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://discord.gg/RnRnYcEc7J">天理尝蛆</a></td>
+        <td align="center"><code>天理尝蛆</code>官方Discord群组。中国境内最大的公益服务器。</td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://discord.gg/tRYMG7Nm2D">YuukiPS</a></td>
+        <td align="center"><code>YuukiPS</code>官方Discord群组。目前外网较大的公益服务器(本人接触外网不多，知道的就这个）。</td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://discord.gg/MmV8hNZB9S">Akebi-GC</a></td>
+        <td align="center"><code>Akebi-GC</code>官方Discord群组。科技与狠活。</td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://discord.gg/AMkFHzwK6C">GCchinese</a></td>
+        <td align="center"><code>GCchinese</code>官方Discord群组。国内一个文件分享频道。？</td>
+    <tr>
+        <td align="center"><a href="https://discord.gg/AYtB7Q2er8">Frontrooms inc</a></td>
+        <td align="center"><code>Frontrooms inc</code>官方Discord群组。国外一个文件分享频道。？</td>
+    </tr>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://discord.gg/dongfang">东方乄</a></td>
+        <td align="center"><code>东方乄</code>官方Discord群组。公益服务器，处于不活跃状态，推荐加入QQ群。</td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://discord.gg/Nt54CACfrm">Genshin-RK</a></td>
+        <td align="center"><code>Genshin-RK</code>官方Discord群组。公益服务器，处于不活跃状态，推荐加入QQ频道。</td>
+    </tr>    
+    <tr>
+        <td align="center"><a href="https://pd.qq.com/s/qhtfto">Genshin-RK</a></td>
+        <td align="center"><code>Genshin-RK</code>官方QQ频道。公益服务器，也是我本人所在的团队。</td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://jq.qq.com/?_wv=1027&k=yLfGZtJE">网笙久久</a></td>
+        <td align="center"><code>网笙久久</code>官方QQ群①。公益服务器(emmm，别问我为啥只有5个字的简介，如果你是服主，请自行<code>pr)</code>。</td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://jq.qq.com/?_wv=1027&k=FfGp3MvW">网笙久久</a></td>
+        <td align="center"><code>网笙久久</code>官方QQ群②。公益服务器(emmm，别问我为啥只有5个字的简介，如果你是服主，请自行<code>pr)</code>。</td>
+    </tr>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://jq.qq.com/?_wv=1027&k=xi3IBGKB">动漫游戏-四叶草</a></td>
+        <td align="center"><code>动漫游戏-四叶草</code>官方QQ群。公益服务器(emmm，别问我为啥只有5个字的简介，如果你是服主，请自行<code>pr)</code>。</td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://pd.qq.com/s/fm7yc0rko">动漫游戏-四叶草</a></td>
+        <td align="center"><code>动漫游戏-四叶草</code>官方QQ频道。公益服务器(emmm，别问我为啥只有5个字的简介，如果你是服主，请自行<code>pr)</code>。</td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://discord.gg/RjRrCPq53c">YuiServer</a></td>
+        <td align="center"><code>YuiServer</code>官方Discord群组。公益服务器，处于不活跃状态，推荐加入QQ群。</td>
+    </tr>
+</table>
+
+<table align="center">
+    <tr>
         <td colspan="3" align="center"><h2>感谢以下成员做出的贡献 | Credits</h2></td>
     </tr>
     <tr>
@@ -320,4 +387,3 @@
 <td align="center"><a href="https://github.com/wcjqwq">IKUN</a></td>
 </tr>
 </table>
-

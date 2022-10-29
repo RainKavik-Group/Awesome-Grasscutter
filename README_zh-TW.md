@@ -205,7 +205,9 @@
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/snoobi-seggs/FuckPaimonPlugin">FuckPaimonPlugin</a></td>
-        <td align="center">前面的區域爺現在就要探索。 </td>
+        <td align="center">前面的區域爺現在就要探索。
+        <br/>或者使用<code>/setProp setopenstate 48</code>來實現相同的功能，
+        <br/>並用<code>/setProp unsetopenstate 48</code>來解除該狀態 </td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/Penelopeep/SwitchElementTraveller">SwitchElement 切換主角元素</a></td>
@@ -298,6 +300,10 @@
     <tr>
         <td align="center"><a href="https://github.com/NotThorny/BuildSwitcher">BuildSwitcher</a></td>
         <td align="center">儲存你的賬號資料快速匯入</td>
+    </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/Grasscutters/Grasscutter/pull/1905">Banners God</a></td>
+        <td align="center">快速切換<code>banner.json</code>文檔，（目前只是提交了<code>pr</code>，感興趣的自己研究） </td>
     </tr>
 </table>
 

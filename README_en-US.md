@@ -302,6 +302,10 @@
         <td align="center"><a href="https://github.com/NotThorny/BuildSwitcher">BuildSwitcher</a></td>
         <td align="center">Save your account data for quick import</td>
     </tr>
+    <tr>
+        <td align="center"><a href="https://github.com/Grasscutters/Grasscutter/pull/1905">Banners God</a></td>
+        <td align="center">quickly change <code>banner.json</code>，（only <code>pr</code>，you may research by yourself） </td>
+    </tr>
 </table>
 
 <table align="center">

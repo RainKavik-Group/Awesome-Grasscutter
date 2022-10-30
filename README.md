@@ -308,13 +308,15 @@
     </tr>
 </table>
 
+---
+
 <table align="center">
     <tr>
         <td colspan="2" align="center"><h2>Discord/频道/QQ群</h2></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://discord.gg/T5vZU6UyeG">Grasscutter</a></td>
-        <td align="center"><code>Grasscutter</code>官方Discord群组。加入后需要验证身份，验证秘钥在<code>wki</code>。</td>
+        <td align="center"><a href="https://discord.gg/grasscutter">Grasscutter</a></td>
+        <td align="center"><code>Grasscutter</code>官方Discord群组。加入后需要验证身份，验证秘钥在<a href="https://github.com/Grasscutters/Grasscutter/wiki/Troubleshooting">wiki</a>。</td>
     </tr>
     <tr>
         <td align="center"><a href="https://jq.qq.com/?_wv=1027&k=LpLvcFS1">Tools-jie65535</a></td>
@@ -329,7 +331,7 @@
         <td align="center"><code>YuukiPS</code>官方Discord群组。目前外网较大的公益服务器(本人接触外网不多，知道的就这个）。</td>
     </tr>
     <tr>
-        <td align="center"><a href="https://discord.gg/MmV8hNZB9S">Akebi-GC</a></td>
+        <td align="center"><a href="https://discord.gg/akebi">Akebi-GC</a></td>
         <td align="center"><code>Akebi-GC</code>官方Discord群组。科技与狠活。</td>
     </tr>
     <tr>
@@ -354,20 +356,20 @@
     </tr>
     <tr>
         <td align="center"><a href="https://jq.qq.com/?_wv=1027&k=yLfGZtJE">网笙久久</a></td>
-        <td align="center"><code>网笙久久</code>官方QQ群①。公益服务器(emmm，别问我为啥只有5个字的简介，如果你是服主，请自行<code>pr)</code>。</td>
+        <td align="center"><code>网笙久久</code>官方QQ群①。公益服务器(emmm，别问我为啥只有5个字的简介，如果你是服主，请自行<code>pr</code>)。</td>
     </tr>
     <tr>
         <td align="center"><a href="https://jq.qq.com/?_wv=1027&k=FfGp3MvW">网笙久久</a></td>
-        <td align="center"><code>网笙久久</code>官方QQ群②。公益服务器(emmm，别问我为啥只有5个字的简介，如果你是服主，请自行<code>pr)</code>。</td>
+        <td align="center"><code>网笙久久</code>官方QQ群②。公益服务器(emmm，别问我为啥只有5个字的简介，如果你是服主，请自行<code>pr</code>)。</td>
     </tr>
     </tr>
     <tr>
         <td align="center"><a href="https://jq.qq.com/?_wv=1027&k=xi3IBGKB">动漫游戏-四叶草</a></td>
-        <td align="center"><code>动漫游戏-四叶草</code>官方QQ群。公益服务器(emmm，别问我为啥只有5个字的简介，如果你是服主，请自行<code>pr)</code>。</td>
+        <td align="center"><code>动漫游戏-四叶草</code>官方QQ群。公益服务器(emmm，别问我为啥只有5个字的简介，如果你是服主，请自行<code>pr</code>)。</td>
     </tr>
     <tr>
         <td align="center"><a href="https://pd.qq.com/s/fm7yc0rko">动漫游戏-四叶草</a></td>
-        <td align="center"><code>动漫游戏-四叶草</code>官方QQ频道。公益服务器(emmm，别问我为啥只有5个字的简介，如果你是服主，请自行<code>pr)</code>。</td>
+        <td align="center"><code>动漫游戏-四叶草</code>官方QQ频道。公益服务器(emmm，别问我为啥只有5个字的简介，如果你是服主，请自行<code>pr</code>)。</td>
     </tr>
     <tr>
         <td align="center"><a href="https://discord.gg/RjRrCPq53c">YuiServer</a></td>

@@ -227,7 +227,7 @@
         <td align="center">&nbsp; 一款公告插件。 </td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/Coooookies/Grasscutter-MeaMailPlus">MeaMailPlus 邮件增强</a></td>
+        <td align="center"><a href="https://github.com/Zhaokugua/Grasscutter-MeaMailPlus/releases/tag/v1.0.3-fix2">MeaMailPlus 邮件增强</a></td>
         <td align="center">你可以用它来轻松的收发邮件。 </td>
     </tr>
     <tr>

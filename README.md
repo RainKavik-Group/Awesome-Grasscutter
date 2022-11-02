@@ -30,7 +30,7 @@
        <td align="center">rainkavik提供的教程。</td>
         </tr>
     <tr>
-        <td align="center"><a href="https://github.com/tamilpp25/Grasscutter_Resources">Resources_3.1</a></td>
+        <td align="center"><a href="https://github.com/tamilpp25/Grasscutter_Resources">Resources_3.2</a></td>
         <td align="center">resources-3.2正式服</td>
         <td align="center"><a href="https://github.com/ElaXan/GCAndroid">Android搭建教程</td>
         <td align="center">在Android上搭建GC服务端</td>

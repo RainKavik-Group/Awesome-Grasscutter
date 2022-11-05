@@ -13,380 +13,99 @@
 * 欢迎各位亲提交更好插件或者开源项目。
 * 欢迎各位服主`(必须为公益服)`提交你们的`Discord/频道/QQ群`。
 
-<table align="center">
-    <tr>
-    <td colspan="4" align="center"><h2>Grasscutter基础</h2></td>
-    </tr>
-    <tr>
-       <td align="center"><h3 align="center">基础项目</h3></td>
-       <td align="center"><h3 align="center">简介</h3></td>
-        <td align="center"><h3 align="center">教程</h3></td>
-       <td align="center"><h3 align="center">简介</h3></td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/Grasscutters/Grasscutter">Grasscutter</a></td>
-        <td align="center">官方GC项目地址 </td>
-        <td align="center"><a href="https://www.rainkavik.com/archives/254/">Windows搭建教程</td>
-       <td align="center">rainkavik提供的教程。</td>
-        </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/tamilpp25/Grasscutter_Resources">Resources_3.2</a></td>
-        <td align="center">resources-3.2正式服</td>
-        <td align="center"><a href="https://github.com/ElaXan/GCAndroid">Android搭建教程</td>
-        <td align="center">在Android上搭建GC服务端</td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/snoobi-seggs/nahida_seggs">Resources_3.1.5x</a></td>
-        <td align="center">resources-3.1.5测试服</td>
-        <td align="center"><a href="https://github.com/cool-chill/GC-onekey">一键脚本部署</a></td>
-        <td align="center">写给Linux用的  </td>
-    </tr>
-        <tr>
-        <td align="center"><a href="https://github.com/Yuer-QAQ/Grasscutter-error">常见问题</a></td>
-        <td align="center">Grasscutter-疑难杂症</td>
-        <td align="center"><a href="https://github.com/akbaryahya/DockerGS">DockerGS</a></td>
-        <td align="center">只需一个命令即可运行GC</td>
-    </tr>
-    <tr>
-        <td colspan="2"  align="center"><a href="https://github.com/kyou-nase/GI-Download-Library">GI-Download-Library</a></td>
-        <td colspan="2"  align="center"> 全版本客户端的下载链接</td>
-</table>
+###
+* [Grasscutter-官方项目地址](https://github.com/Grasscutters/Grasscutter)
+* [Grasscutter-Resources_3.2正式服](https://github.com/tamilpp25/Grasscutter_Resources)
+* [Grasscutter-Resources_3.1.5x测试服](https://github.com/snoobi-seggs/nahida_seggs)
+* [Grasscutter-疑难杂症](https://github.com/Yuer-QAQ/Grasscutter-error)
+* [Grasscutter-Windows搭建教程](https://www.rainkavik.com/archives/254/)
+* [Grasscutter-Android搭建教程](https://github.com/ElaXan/GCAndroid)
+* [Grasscutter-Linux一键部署](https://github.com/cool-chill/GC-onekey)
+* [Grasscutter-DockerGS](https://github.com/akbaryahya/DockerGS)
+* [Grasscutter-全版本客户端集成](https://github.com/kyou-nase/GI-Download-Library)
 
----
 
-<table align="center">
-    <tr>
-    <td colspan="2" align="center"><h2>代理软件</h2></td>
-    </tr>
-    <tr>
-       <td align="center"><h3 align="center">项目地址</h3></td>
-       <td align="center"><h3 align="center">简介</h3></td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://cloud.rainkavik.com/s/gKBcV">易语言_代理转向</a></td>
-         <td align="center">无源码地址，欢迎补充。 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/liujiaqi7998/genshinclienthelper">Genshin代理助手</a></td>
-         <td align="center">老牌的代理软件，功能简洁非常强大。 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/gc-toolkit/GenshinLauncher">GenshinLauncherUI</a></td>
-           <td align="center">高仿官方启动器的gc启动器捏。 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/Bambi5/Collei_Launcher">Collei_Launcher</a></td>
-          <td align="center">适用于某游戏的启动器，可自行修补patch。 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/Grasscutters/Cultivation/blob/main/README_zh-CN.md">Cultivation</a></td>
-          <td align="center">GC官方的启动器。</td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/document/Cultivation-file/Custom%20skins_zh-CN.md">Cultivation启动器主题</a></td>
-        <td align="center">启动器主题由<code>遗忘的季节~</code>整合</td>
-    </tr>
-        <tr>
-        <td align="center"><a href="https://github.com/akbaryahya/YuukiPS-Launcher">YuukiPS</a></td>
-          <td align="center">YuukiPS的个人启动器。</td>
-    </tr>
-</table>
+## 代理软件&启动器
+* [Cultivation](https://github.com/Grasscutters/Cultivation/blob/main/README_zh-CN.md)
+* [Cultivation启动器主题](https://github.com/Yuer-QAQ/Grasscutter-Plugin/blob/main/document/Cultivation-file/Custom%20skins_zh-CN.md)
+* [易语言_代理转向](https://cloud.rainkavik.com/s/gKBcV)
+* [Genshin代理助手](https://github.com/liujiaqi7998/genshinclienthelper)
+* [GenshinLauncherUI](https://github.com/gc-toolkit/GenshinLauncher)
+* [Collei_Launcher](https://github.com/Bambi5/Collei_Launcher)
+* [YuukiPS-Launcher](https://github.com/akbaryahya/YuukiPS-Launcher)
 
----
+## 其他文件
+* [Akebi-GC](https://github.com/Akebi-Group/Akebi-GC/blob/master/README_zh-Hans.md)
+* [Akebi-GC-发布地址](https://github.com/Taiga74164/Akebi-GC/releases)
+* [All传送文件-配合Akebi的teleport功能使用](https://github.com/Lost-Season/Genshin_Impact_Teleport)
+* [GUI差分包合并](https://github.com/RainKavik-Group/genshin-hdiff-patch-gui)
 
-<table align="center">
-    <tr>
-    <td colspan="3" align="center"><h2>MOD</h2></td>
-    </tr>
-    <tr>
-       <td align="center"><h3 align="center">3DMigoto</h3></td>
-       <td align="center"><h3 align="center">SpecialK</h3></td>
-       <td align="center"><h3 align="center">melonloader</h3></td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/SilentNightSound/GI-Model-Importer">GIMI-3DMigoto-项目地址&教程</td>
-        <td align="center"><a href="https://github.com/SpecialKO/SpecialK">SpecialK-项目地址</td>
-        <td align="center"><a href="https://github.com/Lost-Season/ChecksumBypass">melonloader-下载及教程 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://gamebanana.com/mods/games/8552">GIMI-3DMigoto-mod论坛地址</td>
-        <td align="center"><a href="https://github.com/zeroruka/GI-SKMods-wiki/wiki">SpecialK-中文wiki（教程）</td>
-        <td align="center"><a href="https://github.com/zeroruka/GI-Assets/tree/main/Mods/Scripts">melonloader-mod地址&教程 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/SilentNightSound/GI-Model-Importer-Assets">GIMI-3DMigoto-github上的mod地址</td>
-        <td align="center"><a href="https://github.com/zeroruka/GI-SKMods/wiki">SpecialK-英文wiki（教程）</td>
-        <td align="center"><a href="https://github.com/Lost-Season/ChecksumBypass/tree/main/扩展/">melonloader-扩展用法 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/Yuer-QAQ">是凑数的~</td>
-        <td align="center"><a href="https://github.com/zeroruka/GI-SKMods">SpecialK-mod地址</td>
-        <td align="center"><a href="https://github.com/Taiga74164/ChecksumBypass-GenshinImpact">melonloader-leak3.1 </td>
-    </tr>
-</table>
+###
+* [MOD-GIMI-3DMigoto-项目地址&教程](https://github.com/SilentNightSound/GI-Model-Importer)
+* [MOD-GIMI-3DMigoto-mod论坛地址](https://gamebanana.com/mods/games/8552)
+* [MOD-GIMI-3DMigoto-github上的mod地址](https://github.com/SilentNightSound/GI-Model-Importer-Assets)
+###
+* [MOD-SpecialK-项目地址](https://github.com/SpecialKO/SpecialK)
+* [MOD-SpecialK-mod地址](https://github.com/zeroruka/GI-SKMods)
+* [MOD-SpecialK-中文wiki（教程）](https://github.com/zeroruka/GI-SKMods-wiki/wiki)
+* [MOD-SpecialK-英文wiki（教程）](https://github.com/zeroruka/GI-SKMods/wiki)
+###
+* [MOD-melonloader-下载及教程](https://github.com/Lost-Season/ChecksumBypass)
+* [MOD-melonloader-mod地址&教程](https://github.com/zeroruka/GI-Assets/tree/main/Mods/Scripts)
+* [MOD-melonloader-扩展用法](https://github.com/Lost-Season/ChecksumBypass/tree/main/扩展/)
+* [MOD-melonloader-leak3.1](https://github.com/Taiga74164/ChecksumBypass-GenshinImpact)
 
----
+## 插件统计
+* [opencommand-为第三方客户端开放GC命令执行接口的插件](https://github.com/jie65535/gc-opencommand-plugin)
+* [Grasscutter-Tools指令箱](https://github.com/jie65535/GrasscutterCommandGenerator)
+* [Inventory_Kamera-扫描账号内的数据，并导出为`GOOD`格式](https://github.com/Andrewthe13th/Inventory_Kamera)
+* [GCEnkaCopy-一键获取和装备来自官服公开的数据](https://github.com/exzork/GCEnkaCopy)
+* [Tools Syca修改的3.1.5x指令箱](https://github.com/TeyvatL/GrasscutterTool-3.1.5)
+* [Tools jiangxingxuejian](https://github.com/jianxingxuejian/grasscutter-plugin)
+* [Tools by jiangxingxuejian](https://github.com/jianxingxuejian/grasscutter-tools)
+* [QQ运行GC命令的机器人插件](https://github.com/jie65535/JGrasscutterCommand)
+* [在Q群中添加机器人](https://github.com/mamoe/mirai-console)
+* [AttackModifier-释放技能时生成其他实体](https://github.com/NotThorny/AttackModifier)
+* [FuckPaimonPlugin-前面的区域爷现在就要探索](https://github.com/snoobi-seggs/FuckPaimonPlugin)
+* [SwitchElement 切换旅行者元素](https://github.com/Penelopeep/SwitchElementTraveller)
+* [SwitchElement 切换元素汉化版](https://github.com/RainKavik-Group/SwitchElementTraveller)
+* [旅行者命座切换](https://github.com/Penelopeep/ToggleConstellation)
+* [MeaNotice 定时公告](https://github.com/Coooookies/Grasscutter-MeaNotice)
+* [MeaMailPlus 邮件增强](https://github.com/Zhaokugua/Grasscutter-MeaMailPlus/releases/tag/v1.0.3-fix2)
+* [蓝图设计插件](https://github.com/liujiaqi7998/EasyGrasscutters)
+* [node-RED节点](https://github.com/liujiaqi7998/node-red-easy-grasscutters)
+* [资源管理器](https://github.com/gc-toolkit/gc-cli)
+* [团队合并插件](https://github.com/Penelopeep/TeamMerge)
+* [清除掉落物](https://github.com/hamusuke0323/DroppedItemsKiller)
+* [生成随机敌人](https://github.com/NotThorny/MobWave)
+* [设置角色等级](https://github.com/NotThorny/setLevel)
+* [RevealSurroundings](https://github.com/snoobi-seggs/RevealSurroundingsPllllugin)
+* [Nuzlocke-使用该插件来清除已有的角色](https://github.com/Penelopeep/Nuzlocke)
+* [id-look-游戏中查找物品ID，可以转换语言](https://github.com/ffauzan/id-look)
+* [Give Artifact Plugin-给神器插件](https://github.com/snoobi-seggs/GiveArtifactPlugin)
+* [CharacterBuilder-使用保存的版本之一快速装备角色](https://github.com/Penelopeep/CharacterBuilder)
+* [WT网页工具箱-目前大部分指令不适配组最新版本](https://github.com/liujiaqi7998/GrasscuttersWebDashboard)
+* [MojoConsolePlus-目前大部分指令不适配组最新版本](https://github.com/gc-mojoconsole/gc-mojoconsole-backend)
+* [Mojo-Desktop_Xbox Game Bar里快捷运行gc的命令](https://github.com/gc-toolkit/Mojo-Desktop)
+* [GCAuth-grasscutter的密码验证系统](https://github.com/exzork/GCAuth)
+* [GCAuth-OAuth-Grasscutter的游戏内登录系统基于oauth和GCAuth。](https://github.com/Xtao-Labs/GCAuth-OAuth)
+* [Twitter风格的GCAuth-OAuth页面](https://github.com/gc-toolkit/GCAuth-OAuth-TwitterTheme)
+* [BuildSwitcher-保存你的账号数据快速导入](https://github.com/NotThorny/BuildSwitcher)
+* [Banners God-快速切换`banner.json`文件](https://github.com/Grasscutters/Grasscutter/pull/1905)
 
-<table align="center">
-    <tr>
-    <td colspan="2" align="center"><h2>其他文件</h2></td>
-    </tr>
-    <tr>
-       <td align="center"><h3 align="center">项目地址</h3></td>
-       <td align="center"><h3 align="center">简介</h3></td>
-    </tr>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/Akebi-Group/Akebi-GC/blob/master/README_zh-Hans.md">Akebi-GC</a></td>
-        <td align="center">一款可以让你在提瓦特翱翔的魔法（已经DMCA了）</td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/Taiga74164/Akebi-GC">发布版Akebi</a></td>
-        <td align="center">编译后的发布版背起行囊。</tb>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/Lost-Season/Genshin_Impact_Teleport">All 传送文件</a></td>
-        <td align="center">配合akebi的teleport功能使用。</tb>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/RainKavik-Group/genshin-hdiff-patch-gui">GUI差分包合并</a></td>
-        <td align="center">GUI图形界面 自动完成hdiff差分包更新(合并语音强推！)。</tb>
-    </tr>
-</table>
-
----
-
-<table align="center">
-    <tr>
-    <td colspan="2" align="center"><h2>插件统计</h2></td>
-    </tr>
-    <tr>
-       <td align="center"><h3 align="center">项目地址</h3></td>
-       <td align="center"><h3 align="center">简介</h3></td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/jie65535/gc-opencommand-plugin">Tools 前置插件</a></td>
-        <td align="center">一个为第三方客户端开放GC命令运行接口的插件。</td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/jie65535/GrasscutterCommandGenerator">Tools 原版指令箱</a></td>
-        <td align="center">在服务端中自动运行命令。 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/Andrewthe13th/Inventory_Kamera">Inventory_Kamera</a></td>
-        <td align="center">扫描账号内的数据，并导出为<code>GOOD</code>格式，配合原版Toolsv1.5.5往后版本使用。 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/exzork/GCEnkaCopy">GCEnkaCopy</a></td>
-        <td align="center">一键获取和装备来自官服公开的数据，可能需要在<a href="https://enka.network">EnKa</a>上有数据。 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/TeyvatL/GrasscutterTool-3.1.5">Tools Syca修改的3.1.5x指令箱</a></td>
-        <td align="center">由<code>Syca</code>修改，id大部分适配3.1.5X。 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/jianxingxuejian/grasscutter-plugin">Tools by jiangxingxuejian</a></td>
-        <td align="center">由<code>jiangxingxuejian</code>魔改的指令箱的前置插件。 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/jianxingxuejian/grasscutter-tools">Tools by jiangxingxuejian</a></td>
-        <td align="center">由<code>jiangxingxuejian</code>魔改的指令箱。 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/jie65535/JGrasscutterCommand">QQ运行GC命令</a></td>
-        <td align="center">用QQ运行GC命令的机器人插件. </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/mamoe/mirai-console">在Q群中添加机器人</a></td>
-        <td align="center">QQ机器人。 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/NotThorny/AttackModifier">AttackModifier</a></td>
-        <td align="center">释放技能时生成其他实体，雷神变周本大招插件。 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/snoobi-seggs/FuckPaimonPlugin">FuckPaimonPlugin</a></td>
-        <td align="center">前面的区域爷现在就要探索。
-        <br/>或者使用<code>/setProp setopenstate 48</code>来实现相同的功能，
-        <br/>并用<code>/setProp unsetopenstate 48</code>来解除该状态 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/Penelopeep/SwitchElementTraveller">SwitchElement 切换主角元素</a></td>
-        <td align="center">&nbsp;一款切换旅行者属性的插件。 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/RainKavik-Group/SwitchElementTraveller">SwitchElement 切换主角元素汉化版</a></td>
-        <td align="center">由个人添加汉化指令的项目。 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/Penelopeep/ToggleConstellation">旅行者命座切换</a></td>
-        <td align="center">允许您使用简单的命令切换星座。 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/Coooookies/Grasscutter-MeaNotice">MeaNotice 定时公告</a></td>
-        <td align="center">&nbsp; 一款公告插件。 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/Zhaokugua/Grasscutter-MeaMailPlus/releases/tag/v1.0.3-fix2">MeaMailPlus 邮件增强</a></td>
-        <td align="center">你可以用它来轻松的收发邮件。 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/liujiaqi7998/EasyGrasscutters">蓝图设计插件</a></td>
-        <td align="center">通过使用Node-Red软件，创作你自己的蓝图！ </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/liujiaqi7998/node-red-easy-grasscutters">node-RED节点</a></td>
-        <td align="center">配合蓝图设计插件使用。 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/gc-toolkit/gc-cli">资源管理器</a></td>
-        <td align="center">&nbsp;Grasscutter 资源管理助手。（使用Windows PowerShell记得在前面加上<code>./</code>） </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/Penelopeep/TeamMerge">团队合并插件</a></td>
-        <td align="center">简单的Grasscutter插件,用作<code>/team</code>命令的替代方法。 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/hamusuke0323/DroppedItemsKiller">清除掉落物</a></td>
-        <td align="center">清楚掉落的物品。 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/NotThorny/MobWave">生成随机敌人</a></td>
-        <td align="center">随机生成怪物进行战斗。 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/NotThorny/setLevel">设置角色等级</a></td>
-        <td align="center">设置游戏中角色的等级。 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/snoobi-seggs/RevealSurroundingsPllllugin">RevealSurroundings</a></td>
-        <td align="center">揭示你周围的物品是什么原因，也许可以帮助调试东西。 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/Penelopeep/Nuzlocke">Nuzlocke</a></td>
-        <td align="center">使用该插件来清除已有的角色（谨慎使用）。 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/ffauzan/id-look">id-look</a></td>
-        <td align="center">游戏中查找物品ID，可以转换语言。 </td>
-    </tr>
-        <tr>
-        <td align="center"><a href="https://github.com/snoobi-seggs/GiveArtifactPlugin">Give Artifact Plugin</a></td>
-        <td align="center">给神器插件 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/Penelopeep/CharacterBuilder">CharacterBuilder</a></td>
-        <td align="center">使用保存的版本之一快速装备角色。</td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/liujiaqi7998/GrasscuttersWebDashboard">网页工具箱</a></td>
-        <td align="center">适用于三端（目前大部分指令不适配组最新版本。） </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/gc-mojoconsole/gc-mojoconsole-backend">MojoConsolePlus</a></td>
-        <td align="center">旨在提供一个游戏内可用的带用户接口的控制台后端（目前大部分指令不适配组最新版本。） </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/gc-toolkit/Mojo-Desktop">Mojo-Desktop</a></td>
-        <td align="center">让你在 Xbox Game Bar 里快捷运行gc的命令/指令生成器（目前大部分指令不适配组最新版本）。 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/exzork/GCAuth">GCAuth</a></td>
-        <td align="center">割草机（grasscutter的密码验证系统，可能对于开服的人有用）。 </td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/Xtao-Labs/GCAuth-OAuth">GCAuth-OAuth</a></td>
-        <td align="center">建立在oauth和GCAuth的游戏内登录系统，您可以使用<a href="https://github.com/gc-toolkit/GCAuth-OAuth-TwitterTheme">Twitter风格的GCAuth-OAuth页面</td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/NotThorny/BuildSwitcher">BuildSwitcher</a></td>
-        <td align="center">保存你的账号数据快速导入</td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://github.com/Grasscutters/Grasscutter/pull/1905">Banners God</a></td>
-        <td align="center">快速切换<code>banner.json</code>文件，（目前只是提交了<code>pr</code>，感兴趣的自己研究） </td>
-    </tr>
-</table>
-
----
-
-<table align="center">
-    <tr>
-        <td colspan="2" align="center"><h2>Discord/频道/QQ群</h2></td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://discord.gg/grasscutter">Grasscutter</a></td>
-        <td align="center"><code>Grasscutter</code>官方Discord群组。加入后需要验证身份，验证秘钥在<a href="https://github.com/Grasscutters/Grasscutter/wiki/Troubleshooting">wiki</a>。</td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://jq.qq.com/?_wv=1027&k=LpLvcFS1">Tools-jie65535</a></td>
-        <td align="center"><code>Grasscutter-Tools-jie65535</code>官方QQ内测群。小白请绕道。</td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://discord.gg/RnRnYcEc7J">天理尝蛆</a></td>
-        <td align="center"><code>天理尝蛆</code>官方Discord群组。中国境内最大的公益服务器。</td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://discord.gg/tRYMG7Nm2D">YuukiPS</a></td>
-        <td align="center"><code>YuukiPS</code>官方Discord群组。目前外网较大的公益服务器(本人接触外网不多，知道的就这个）。</td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://discord.gg/akebi">Akebi-GC</a></td>
-        <td align="center"><code>Akebi-GC</code>官方Discord群组。科技与狠活。</td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://discord.gg/AMkFHzwK6C">GCchinese</a></td>
-        <td align="center"><code>GCchinese</code>官方Discord群组。国内一个文件分享频道。？</td>
-    <tr>
-        <td align="center"><a href="https://discord.gg/AYtB7Q2er8">Frontrooms inc</a></td>
-        <td align="center"><code>Frontrooms inc</code>官方Discord群组。国外一个文件分享频道。？</td>
-    </tr>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://discord.gg/dongfang">东方乄</a></td>
-        <td align="center"><code>东方乄</code>官方Discord群组。公益服务器，处于不活跃状态，推荐加入QQ群。</td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://discord.gg/Nt54CACfrm">Genshin-RK</a></td>
-        <td align="center"><code>Genshin-RK</code>官方Discord群组。公益服务器，处于不活跃状态，推荐加入QQ频道。</td>
-    </tr>    
-    <tr>
-        <td align="center"><a href="https://pd.qq.com/s/qhtfto">Genshin-RK</a></td>
-        <td align="center"><code>Genshin-RK</code>官方QQ频道。公益服务器，也是我本人所在的团队。</td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://jq.qq.com/?_wv=1027&k=yLfGZtJE">网笙久久</a></td>
-        <td align="center"><code>网笙久久</code>官方QQ群①。公益服务器(emmm，别问我为啥只有5个字的简介，如果你是服主，请自行<code>pr</code>)。</td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://jq.qq.com/?_wv=1027&k=FfGp3MvW">网笙久久</a></td>
-        <td align="center"><code>网笙久久</code>官方QQ群②。公益服务器(emmm，别问我为啥只有5个字的简介，如果你是服主，请自行<code>pr</code>)。</td>
-    </tr>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://jq.qq.com/?_wv=1027&k=xi3IBGKB">动漫游戏-四叶草</a></td>
-        <td align="center"><code>动漫游戏-四叶草</code>官方QQ群。公益服务器(emmm，别问我为啥只有5个字的简介，如果你是服主，请自行<code>pr</code>)。</td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://pd.qq.com/s/fm7yc0rko">动漫游戏-四叶草</a></td>
-        <td align="center"><code>动漫游戏-四叶草</code>官方QQ频道。公益服务器(emmm，别问我为啥只有5个字的简介，如果你是服主，请自行<code>pr</code>)。</td>
-    </tr>
-    <tr>
-        <td align="center"><a href="https://discord.gg/RjRrCPq53c">YuiServer</a></td>
-        <td align="center"><code>YuiServer</code>官方Discord群组。公益服务器，处于不活跃状态，推荐加入QQ群。</td>
-    </tr>
-</table>
-
-<table align="center">
-    <tr>
-        <td colspan="3" align="center"><h2>感谢以下成员做出的贡献 | Credits</h2></td>
-    </tr>
-    <tr>
-        <td colspan="3" align="center">以下排名不分前后，非常感谢各位的贡献。
-    </tr>
-    <tr>
-         <td align="center"><a href="https://github.com/Kawaa-qwq">Kwaa</a></td>
-      <td align="center"><a href="https://github.com/Lost-Season">遗忘的季节~</a></td>
-<td align="center"><a href="https://github.com/wcjqwq">IKUN</a></td>
-</tr>
-</table>
+##     Discord/频道/QQ群)
+* [`Grasscutter`官方Discord群组](https://discord.gg/grasscutter)
+* [`Grasscutter-Tools`官方QQ内测群](https://jq.qq.com/?_wv=1027&k=LpLvcFS1)
+* [`天理尝蛆`官方Discord群组](https://discord.gg/RnRnYcEc7J)
+* [`YuukiPS`官方Discord群组](https://discord.gg/tRYMG7Nm2D)
+* [`Akebi-GC`官方Discord群组](https://discord.gg/akebi)
+* [`GCchinese`官方Discord群组](https://discord.gg/AMkFHzwK6C)
+* [`Frontrooms inc`官方Discord群组](https://discord.gg/AYtB7Q2er8)
+* [`东方乄`官方Discord群组](https://discord.gg/dongfang)
+* [`Genshin-RK`官方Discord群组](https://discord.gg/Nt54CACfrm)
+* [`Genshin-RK`官方QQ频道](https://pd.qq.com/s/qhtfto)
+* [`网笙久久`官方QQ群①](https://jq.qq.com/?_wv=1027&k=yLfGZtJE)
+* [`网笙久久`官方QQ群②](https://jq.qq.com/?_wv=1027&k=FfGp3MvW)
+* [`动漫游戏-四叶草`官方QQ群](https://jq.qq.com/?_wv=1027&k=xi3IBGKB)
+* [`动漫游戏-四叶草`官方QQ频道](https://pd.qq.com/s/fm7yc0rko)
+* [`YuiServer`官方Discord群组](https://discord.gg/RjRrCPq53c)

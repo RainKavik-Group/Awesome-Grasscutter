@@ -92,6 +92,7 @@
 * [Twitter风格的GCAuth-OAuth页面](https://github.com/gc-toolkit/GCAuth-OAuth-TwitterTheme)
 * [BuildSwitcher-保存你的账号数据快速导入](https://github.com/NotThorny/BuildSwitcher)
 * [Banners God-快速切换`banner.json`文件](https://github.com/Grasscutters/Grasscutter/pull/1905)
+* [配合InventoryKamera和CharacterBuilder，导入数据](https://github.com/Penelopeep/GenshinImporter)
 
 ##     Discord/频道/QQ群)
 * [`Grasscutter`官方Discord群组](https://discord.gg/grasscutter)

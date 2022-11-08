@@ -115,7 +115,7 @@
 * [`YuiServer`官方QQ群②](https://jq.qq.com/?_wv=1027&k=9XT1QHgE)
 * [`提瓦特喵塘`官方QQ群](https://jq.qq.com/?_wv=1027&k=WT6EQ8oj)
 <details>
-  <summary><code>天理尝蛆QQ群</code></summary>
+  <summary><code>天理尝蛆</code>官方QQ群</summary>
   <pre>
     <code>一群：794713715 二群：861560448</code>
     <code>三群：115891254 四群：923078823</code>

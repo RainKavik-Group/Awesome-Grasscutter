@@ -111,6 +111,9 @@
 * [`网笙久久`官方QQ群②](https://jq.qq.com/?_wv=1027&k=FfGp3MvW)
 * [`动漫游戏-四叶草`官方QQ群](https://jq.qq.com/?_wv=1027&k=xi3IBGKB)
 * [`动漫游戏-四叶草`官方QQ频道](https://pd.qq.com/s/fm7yc0rko)
+* [`YuiServer`官方QQ群①](https://jq.qq.com/?_wv=1027&k=fPtXawdw)
+* [`YuiServer`官方QQ群②](https://jq.qq.com/?_wv=1027&k=9XT1QHgE)
+* [`提瓦特喵塘`官方QQ群](https://jq.qq.com/?_wv=1027&k=WT6EQ8oj)
 <details>
   <summary><code>天理尝蛆QQ群</code></summary>
   <pre><code>一群：794713715 二群：861560448</code></pre>

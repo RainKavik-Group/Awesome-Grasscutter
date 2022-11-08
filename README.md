@@ -96,12 +96,14 @@
 
 ##     Discord/频道/QQ群)
 * [`Grasscutter`官方Discord群组](https://discord.gg/grasscutter)
+* [`Grasscutter`Backrooms](https://discord.gg/gcbackrooms)
 * [`Grasscutter-Tools`官方QQ内测群](https://jq.qq.com/?_wv=1027&k=LpLvcFS1)
 * [`天理尝蛆`官方Discord群组](https://discord.gg/RnRnYcEc7J)
 * [`YuukiPS`官方Discord群组](https://discord.gg/tRYMG7Nm2D)
 * [`Akebi-GC`官方Discord群组](https://discord.gg/akebi)
 * [`GCchinese`官方Discord群组](https://discord.gg/AMkFHzwK6C)
 * [`Frontrooms inc`官方Discord群组](https://discord.gg/AYtB7Q2er8)
+* [`YuiServer`官方Discord群组](https://discord.gg/RjRrCPq53c)
 * [`东方乄`官方Discord群组](https://discord.gg/dongfang)
 * [`Genshin-RK`官方Discord群组](https://discord.gg/Nt54CACfrm)
 * [`Genshin-RK`官方QQ频道](https://pd.qq.com/s/qhtfto)
@@ -109,4 +111,14 @@
 * [`网笙久久`官方QQ群②](https://jq.qq.com/?_wv=1027&k=FfGp3MvW)
 * [`动漫游戏-四叶草`官方QQ群](https://jq.qq.com/?_wv=1027&k=xi3IBGKB)
 * [`动漫游戏-四叶草`官方QQ频道](https://pd.qq.com/s/fm7yc0rko)
-* [`YuiServer`官方Discord群组](https://discord.gg/RjRrCPq53c)
+* [`YuiServer`官方QQ群①](https://jq.qq.com/?_wv=1027&k=fPtXawdw)
+* [`YuiServer`官方QQ群②](https://jq.qq.com/?_wv=1027&k=9XT1QHgE)
+* [`提瓦特喵塘`官方QQ群](https://jq.qq.com/?_wv=1027&k=WT6EQ8oj)
+<details>
+  <summary><code>天理尝蛆</code>官方QQ群</summary>
+  <pre>
+    <code>一群：794713715 二群：861560448</code>
+    <code>三群：115891254 四群：923078823</code>
+    <code>五群：763980140 六群：371135043</code>
+    <code>七群：853729260 八群：715320773</code></pre>
+</details>

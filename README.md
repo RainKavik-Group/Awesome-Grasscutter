@@ -63,6 +63,8 @@
 * [Tools Syca修改的3.1.5x指令箱](https://github.com/TeyvatL/GrasscutterTool-3.1.5)
 * [Tools jiangxingxuejian](https://github.com/jianxingxuejian/grasscutter-plugin)
 * [Tools by jiangxingxuejian](https://github.com/jianxingxuejian/grasscutter-tools)
+* [网页版tools](https://null-grasscutter-tools.vercel.app/)
+* [另一个网页版Tools](https://github.com/Dituon/grasscutter-command-helper)&[一个DEMO](https://cmd.d2n.moe/new/)
 * [QQ运行GC命令的机器人插件](https://github.com/jie65535/JGrasscutterCommand)
 * [在Q群中添加机器人](https://github.com/mamoe/mirai-console)
 * [AttackModifier-释放技能时生成其他实体](https://github.com/NotThorny/AttackModifier)
